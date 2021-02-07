@@ -1,0 +1,11 @@
+test {
+"ke" "k"
+"ke2" "k"
+}
+
+test2 {
+    "kek" "tes"
+    aaa {
+
+    }
+}
